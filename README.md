@@ -1,1 +1,1 @@
-# script
+script by thai
