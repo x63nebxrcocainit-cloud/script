@@ -1974,8 +1974,8 @@ end
 local Library = loadstring(game:HttpGet("https://pastefy.app/28c5ZUsm/raw"))()
 
 local Window = Library:MakeWindow({
-  Title = "TrongNguyen : Blox Fruits",
-  SubTitle = "by NguyenHoangTrong",
+  Title = "ThaiHub : Blox Fruits",
+  SubTitle = "by LuongThai",
   ScriptFolder = "RedzLibraryBF"
 })
 
@@ -1984,7 +1984,7 @@ local Minimizer = Window:NewMinimizer({
 })
 
 local MobileButton = Minimizer:CreateMobileMinimizer({
-    Image = "rbxassetid://120213707198275",
+    Image = "rbxassetid://111185054556277",
     BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 })
 
@@ -2015,11 +2015,11 @@ local Info = Window:MakeTab({
 Info:AddDiscordInvite({
 	Title = "Join Discord",
 	Description = "",
-	Banner = "rbxassetid://120213707198275", 
-	Logo = "rbxassetid://120213707198275",
+	Banner = "rbxassetid://111185054556277", 
+	Logo = "rbxassetid://111185054556277",
 	Invite = "https://discord.com/invite/s4sMmn7BrQ",
-	Members = 2000, 
-	Online = 204, 
+	Members = 200000, 
+	Online = 2025, 
 })
 
 local Farming = Window:MakeTab({
