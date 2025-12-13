@@ -1,25 +1,5 @@
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui")))()
 
-       local Window = MakeWindow({
-         Hub = {
-         Title = "thinh Roblox tổng hợp",
-         Animation = "thịnh Roblox hack"
-         },
-        Key = {
-        KeySystem = true,
-        Title = "bản premium nên có key nhé",
-        Description = "",
-        KeyLink = "hubfree",
-        Keys = {"111"},
-        Notifi = {
-        Notifications = true,
-        CorrectKey = "Running the Script...",
-       Incorrectkey = "The key is incorrect",
-       CopyKeyLink = "Copied to Clipboard"
-      }
-    }
-  })
-
        MinimizeButton({
        Image = "http://www.roblox.com/asset/?id=86749587185394",
        Size = {60, 60},
