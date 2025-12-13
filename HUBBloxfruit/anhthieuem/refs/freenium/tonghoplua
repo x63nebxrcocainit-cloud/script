@@ -366,10 +366,17 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Overgustx2/Main/refs/heads/main/BloxFruits_25.html"))()
   end
   })
-  
-  AddButton(Tab9o, {
+
+ AddButton(Tab9o, {
      Name = "aimlock",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Cyborg883/TSB/refs/heads/main/CombatGui"))()
+  end
+  }) 
+  
+  AddButton(Tab9o, {
+     Name = "ThaiHub (chưa hoàn thiện)",
+    Callback = function()
+	  loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/x63nebxrcocainit-cloud/script/refs/heads/main/HUBBloxfruit/anhthieuem/refs/freenium/thaidz"))()"))()
   end
   })
