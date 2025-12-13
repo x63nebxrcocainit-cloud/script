@@ -374,7 +374,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   end
   }) 
   
-  AddButton(Tab9o, {
+  AddButton(Tab6o, {
      Name = "ThaiHub (chưa hoàn thiện)",
     Callback = function()
 	  loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/x63nebxrcocainit-cloud/script/refs/heads/main/HUBBloxfruit/anhthieuem/refs/freenium/thaidz"))()"))()
